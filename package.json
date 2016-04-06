@@ -8,8 +8,8 @@
   },
   "homepage": "https://github.com/chrislondon/react-bootstrap",
   "scripts": {
-    "compile": "babel --presets es2015,stage-0 -d lib/ src/",
-    "prepublish": "npm run compile"
+    "build": "babel --presets es2015,stage-0 -d lib/ src/",
+    "prepublish": "npm run build"
   },
   "main": "lib/index.js",
   "directories": {
