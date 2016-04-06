@@ -13,7 +13,10 @@ I am using this in a current project of mine and am currently only implementing 
 Simple alert div http://v4-alpha.getbootstrap.com/components/alerts/
 
 Properties:
+
 - type: `danger` (string, optional) - Alert type. Can be success, info, warning, or danger (default)
+
+Examples:
 
     <Alert type="success">This is a success message</Alert>
     <Alert type="info">This is an info message</Alert>
