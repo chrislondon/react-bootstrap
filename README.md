@@ -14,8 +14,7 @@ Simple alert div http://v4-alpha.getbootstrap.com/components/alerts/
 
 Properties:
 
-+ type: `danger` (string, optional) - Alert type. Can be success, info, warning, or danger (default)
-
+- type: `danger` (string, optional) - Alert type. Can be success, info, warning, or danger (default)
 
     <Alert type="success">This is a success message</Alert>
     <Alert type="info">This is an info message</Alert>
