@@ -10,6 +10,10 @@ I am using this in a current project of mine and am currently only implementing 
 
 ... Coming soon
 
+## Install
+
+''' npm install react-bootstrap-v4 '''
+
 ## Local Setup
 
 - Install the dependencies with `npm install`
