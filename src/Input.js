@@ -3,7 +3,10 @@ import React, { Component } from 'react';
 // TODO REFACTOR this, text, and password components.
 export default class extends Component {
     static defaultProps = {
-        type: 'text'
+        type: 'text',
+        errors: [],
+        label: '',
+        placeholder: ''
     };
 
     getKey() {

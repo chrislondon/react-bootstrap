@@ -8,11 +8,16 @@ I am using this in a current project of mine and am currently only implementing 
 
 ## Docs
 
-... Coming soon
+### Alert
+
+    <Alert type="success">This is a success message</Alert>
+    <Alert type="info">This is an info message</Alert>
+    <Alert type="warning">This is a warning message</Alert>
+    <Alert type="danger">This is an error message</Alert>
 
 ## Install
 
-''' npm install react-bootstrap-v4 '''
+    npm install react-bootstrap-v4
 
 ## Local Setup
 
