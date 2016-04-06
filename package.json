@@ -10,7 +10,7 @@
   "scripts": {
     "build": "babel-node tools/build-cli.js",
     "lint": "eslint ./",
-    "release": "release",
+    "release": "release"
   },
   "main": "lib/index.js",
   "directories": {
